@@ -2,4 +2,4 @@
 
 # welcome..
 
-# hi, it is master branch
+# hi, it is main branch
